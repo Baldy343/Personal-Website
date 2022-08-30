@@ -1,0 +1,30 @@
+
+body {
+background-color: #222222;
+
+}
+header {
+    background-color: #2D75DD;
+}
+nav {
+    color: #2D75DD;
+}
+h1 {
+    background-color: #b31c1c;
+}
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
