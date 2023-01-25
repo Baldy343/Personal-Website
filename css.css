@@ -1,24 +1,27 @@
 html {
-    background-color: #2a2841;
+    background-color: #161616;
     font-family: Arial, Helvetica, sans-serif
 }
 body {
-background-color: #292730;
+background-color: #161616;
 font-size: 1.5vw;
+color: #fafafa;
 }
 
 header {
     text-align: center;
-    background-color: #2D75DD;
+    background-color: #4C4C4C;
+    color: #c8dfe6;
 }
 nav {
-    color: #2D75DD;
+    color: #c8dfe6;
 }
 h1 {
-    background-color: #b31c1c;
+    background-color: #4c4c4c;
 }
 a:link {
     text-decoration: none;
+    color: #c8dfe6;
 }
 a:visited {
     text-decoration: none;
